@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**MurtadhaJasim/MurtadhaJasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Murtadha Jasim 
+💻 **Full-Stack Developer | AI & Cloud Enthusiast**  
+🔹 **Expertise**: MERN Stack (React.js, Node.js), C#, ASP.NET, Python, and Computer Vision (OpenCV).  
+🔹 **Passionate** about building scalable web apps, RESTful APIs, and AI-driven solutions like the *Driver Drowsiness Detection System* (95% accuracy).  
+🔹 **Proven Leader**: Managed 9+ projects, mentored teams, and optimized costs (e.g., 15% server savings).  
+🔹 **Let’s collaborate** on innovative tech!  
+
+---  
+
+### Key Skills:
+- **Languages**: JavaScript, Python, C#, Java, C++  
+- **Frameworks**: React, Node.js, ASP.NET Core, Express.js, Entity Framework  
+- **AI/ML**: OpenCV, NumPy, Pandas  
+- **Databases**: MongoDB, SQL  
+- **Tools**: Git, GitHub, Cloud Computing  
+
+---  
+
+### Highlights:
+🚀 Built a *Financial Stock Market API* (C#) and *Keeper Clone* (MERN).  
+🏆 Led a team to deliver a *Scouts Website* 1 week early.  
+📜 Certifications: *C# (Microsoft)*, *MERN Stack (Udemy)*, *Java (Barniej)*.  
+
+---  
+
+Connect: [LinkedIn](#) | ✉️ ajasm673@gmail.com  
