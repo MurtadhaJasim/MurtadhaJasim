@@ -28,4 +28,4 @@
 
 ---  
 
-Connect: [LinkedIn](#) | ✉️ ajasm673@gmail.com  
+Connect: [LinkedIn](https://www.linkedin.com/in/murtadha-jassim-941725253) | ✉️ ajasm673@gmail.com  
